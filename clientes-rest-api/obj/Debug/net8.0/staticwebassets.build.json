@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Azncv3jhybrGKad9NqpqsK5OUAWXYJKprbR+fpF7Jdg=",
+  "Source": "clientes-rest-api",
+  "BasePath": "_content/clientes-rest-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

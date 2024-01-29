@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\clientes-rest-api.props" />
+</Project>
