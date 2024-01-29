@@ -1,5 +1,5 @@
 
-```
+```markdown
 # Minha API
 
 Este é um projeto de API construído usando .NET Core, PostgreSQL e Entity Framework Core.
@@ -25,7 +25,6 @@ Antes de começar, certifique-se de ter os seguintes itens instalados em seu sis
        "ConnectionStrings": {
          "Default": "Host=localhost;Port=5432;Database=seu_banco_de_dados;Username=seu_usuario;Password=sua_senha;"
        },
-       // ... outras configurações ...
      }
      ```
 
@@ -62,7 +61,7 @@ A API estará disponível em `https://localhost:5001`. Certifique-se de ajustar 
 
 ## Endpoints da API
 
-- `GET /api/Cliente`: Exemplo de endpoint para recuperar dados.
+- `GET /api/exemplo`: Exemplo de endpoint para recuperar dados.
 
 ---
 
