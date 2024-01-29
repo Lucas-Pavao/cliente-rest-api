@@ -1,6 +1,5 @@
-Aqui está um exemplo de `README.md` básico que você pode usar para documentar como rodar sua API, criar o banco de dados PostgreSQL e adicionar as configurações necessárias. Lembre-se de ajustar conforme necessário com detalhes específicos do seu projeto.
 
-```markdown
+```
 # Minha API
 
 Este é um projeto de API construído usando .NET Core, PostgreSQL e Entity Framework Core.
